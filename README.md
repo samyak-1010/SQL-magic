@@ -61,27 +61,6 @@ To enhance performance and reduce load time, we implemented the following optimi
 ✅ **Used lazy loading for images** (`loading="lazy"` attribute).  
 
 
-
-
-
-## ⚙️ **Installation Instructions**
-
-### ✅ 1. Clone the Repository
-```bash
-git clone https://github.com/Suryanra/sqlmagic.git
-cd sqlmagic
-```
-
-### ✅ 2. Install Dependencies
-```bash
-npm install
-```
-
-### ✅ 3. Start the Development Server
-```bash
-npm start
-```
-
 ---
 
 ## 📚 **Folder Structure**
